@@ -8,3 +8,5 @@
 6. To create a new folder : mkdir folder_name
 7. To create a new file  : cd . > file_name.extension or use touch new_file.extension
 8. To delete any file and folder : rm file_name
+9. To know the contents of a file : cat /more/less file_name
+
