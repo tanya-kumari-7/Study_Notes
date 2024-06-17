@@ -4,6 +4,6 @@
 3. Go inside the clone folder open into vs code using (code .)
 4. Inside local repository ==> create your project or add files
 5. To push the code to git repo :-
-    4.a > Stage your code ==> git add . or git add filename
-	4.b > git commit -m "message"
-    4.c > git push
+    5.a > Stage your code ==> git add . or git add filename
+	5.b > git commit -m "message"
+    5.c > git push4   
